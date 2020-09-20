@@ -1,0 +1,7 @@
+[book]
+title = "Digital Tails"
+author = "Kesten Broughton"
+description = "Security focused enhancements to MediaSmarts digital and media literacy materials"
+language = "en"
+multilingual = false
+src = "src"
