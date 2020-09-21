@@ -1,8 +1,7 @@
 # Digital Tails
 
 Digital Tails is intended to support collaborators in extending mediasmarts.ca content.
-Please visit their [Digital Literacy Framework Grades 4-6](https://mediasmarts.ca/teacher-resources/digital-literacy-framework/digital-literacy-framework-grades-4-6) for an example of
-the fabulous resources available.
+Please visit their [Digital Literacy Framework Grades 4-6](https://mediasmarts.ca/teacher-resources/digital-literacy-framework/digital-literacy-framework-grades-4-6) for an example of the fabulous resources available.
 
 Security researchers understand there is a need to bring better security literacy to the
 general population. In this introduction, we will use a mediasmarts lesson plan for
@@ -23,7 +22,7 @@ Mediasmarts includes the following.
 
 **General**
 
-* Profile of Kids in grades [4-5](https://mediasmarts.ca/sites/mediasmarts/files/pdfs/publication-report/summary/ycwwiii_trends_recommendations_profiles_4-5.pdf) or [6-7\(https://mediasmarts.ca/sites/mediasmarts/files/pdfs/publication-report/summary/ycwwiii_trends_recommendations_profiles_6-7.pdf) which helps content developers understand what current skills and exposure is typical of students at this age
+* Profile of Kids in grades [4-5](https://mediasmarts.ca/sites/mediasmarts/files/pdfs/publication-report/summary/ycwwiii_trends_recommendations_profiles_4-5.pdf) or [6-7](https://mediasmarts.ca/sites/mediasmarts/files/pdfs/publication-report/summary/ycwwiii_trends_recommendations_profiles_6-7.pdf) which helps content developers understand what current skills and exposure is typical of students at this age
 * [A collection of resources for parents](https://mediasmarts.ca/parents)
 * [General resources for teachers](https://mediasmarts.ca/teacher-resources)
 * [A broad collection of research papers](https://mediasmarts.ca/research-policy)
@@ -32,8 +31,7 @@ Mediasmarts includes the following.
 
 The resources for the specific learning activity for Break the Fake are
 * [Grades 3-5 Break the Fake: What's real online?](https://mediasmarts.ca/teacher-resources/break-fake-what%E2%80%99s-real-online)
-* [Grades 6-9 Break the Fake Lesson Plan: Verifying Information Online]
-https://mediasmarts.ca/teacher-resources/break-fake-what%E2%80%99s-real-online
+* [Grades 6-9 Break the Fake Lesson Plan: Verifying Information Online](https://mediasmarts.ca/teacher-resources/break-fake-what%E2%80%99s-real-online)
 
 We aim to support collaborators in adding the following to enrich this content
 
@@ -81,7 +79,7 @@ changes to the repo are made (CI/CD).
 we will aim to support
     * Docker containers to run tools locally
     * Jupyter notebooks for interactive workbooks and lessons to be developed locally
-    * Google CoLab deployments for secure hosting of Jupyter notebooks so that students only require a browser to do the exercises. See the [Tiwtter analytics](https://colab.research.google.com/drive/1WIcVZgbrU0DYOQqaxuaCLKY6CoLBV18O) example. (Click the "Connect" button on the top right, then start executing code cells with "Shift + Enter")
+    * Google CoLab deployments for secure hosting of Jupyter notebooks so that students only require a browser to do the exercises. See the [Twitter analytics](https://colab.research.google.com/drive/1WIcVZgbrU0DYOQqaxuaCLKY6CoLBV18O) example. (Click the "Connect" button on the top right, then start executing code cells with "Shift + Enter")
 
 Typically we will expect researchers and technical contributors to use the local Docker environment
 tools, while students and teachers will only need to interact with the GitHub repo, markdown
